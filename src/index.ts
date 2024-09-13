@@ -10,3 +10,6 @@ console.log(`result_sub = ${result_sub}`);
 
 const result_mult = calc.multiply(2, 3);
 console.log(`result_mult = ${result_mult}`);
+
+const result_div = calc.divide(2, 3);
+console.log(`result_div = ${result_div}`);
